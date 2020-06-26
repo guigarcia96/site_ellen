@@ -42,7 +42,7 @@ nav ul {
 }
 nav ul li {
   list-style: none;
-  margin-right: 70px;
+  margin: 30px;
   
 }
 nav ul li a {
@@ -67,6 +67,8 @@ nav ul li a {
 }
 .perfil img {
   margin-left: 70px;
+  height: 800px;
+  width: 600px;
 }
 .perfil aside {
   margin: 40px auto;
@@ -208,6 +210,7 @@ footer {
   width: 100%;
   text-align: center;
 }
+
 
 
 
